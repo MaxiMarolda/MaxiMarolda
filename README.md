@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaxiMarolda
 - 👀 I’m interested in start coding
-- 🌱 I’m currently learning Full Stack
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’ve graduated form Henry as a Full Stack Web Developer
+- 💞️ I’m looking to collaborate on technology proyects
 - 📫 How to reach me mmarolda12@gmail.com 
       www.linkedin.com/in/maximarolda
 
