@@ -27,23 +27,22 @@ It was designed and developed as a  business to business service for importers &
 It is ment to be a grupal simulation of real codding experience with regular SCRUM meetins and a common repository where we all pushed our code, as part of Henry's bootcamp.
 In this proyect I worked as a BackEnd developer and DataBase leader, and we use the following tecnologies:<br>
 Javascript | React Native | CSS | Redux | Node | Sequelize | PostgreSQL | Git Hub | Figma | Trello | GenMyModel
+<div>
+<img src="./chrome_PXNKIK55Hm.png" width="50%" height="50%"  Alt="Main"/>
 
-<img src="./chrome_zuvCvFszS4.png" width="50%" height="50%"  Alt="Post"/>
-
+<img src="./chrome_QBUO2mHtUa.png" width="15%" height="25%"  Alt="Loggin"/>
+</div>
+<div>
 <img src="./chrome_u23tuSVwbz.png" width="50%" height="50%"  Alt="Profile"/>
 
-![figma](https://user-images.githubusercontent.com/76783198/182469139-32ef23d0-b7a2-4592-bd67-71571cdeae13.svg)
-
-Aplicación compilada
-
-![HB](https://user-images.githubusercontent.com/76783198/182479399-555929e3-7261-4e4f-b950-e08521bcfa66.png)
-
+<img src="./chrome_NhNGkcdFrh.png" width="25%" height="35%"  Alt="Post"/>
+</div>
+<img src="./chrome_Nesc08z5yJ.png" width="50%" height="50%"  Alt="Memberships"/>
 
 ### Henry Pokemons
 Single-page application focused on the amazing Pokemon world.<br>
 I developed the whole Aplication, Front and Back End with the following technologies:<br>
 Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
-
 
 ## 📫 Para contactarme 
 
