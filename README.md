@@ -44,14 +44,39 @@ Single-page application focused on the amazing Pokemon world.<br>
 I developed the whole Aplication, Front and Back End with the following technologies:<br>
 Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
 
-## 📫 Para contactarme 
+<a href="https://github.com/MaxiMarolda/Proyecto-Pokemons">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/183681387-b4432771-313b-4527-a157-75786233b3b0.svg" width="25" height="25"/>
+      Link to repo
+</a>
+</br>
 
+<img src="./PokeLanding.png" width="70%" height="70%"  Alt="Landing"/>
+<div>
+<img src="./PokeMain.png" width="40%" height="40%"  Alt="Main"/>
+<img src="./PokeHovering.png" width="40%" height="40%"  Alt="Hovering
+"/></div>
+<div>
+<img src="./PokeDetail.png" width="40%" height="40%"  Alt="Main"/>
+<img src="./PokeCreate.png" width="20%" height="20%"  Alt="Hovering
+"/>
+<img src="./PokeDestroy.png" width="13%" height="13%"  Alt="Hovering
+"/>
+</div>
+<br>
+<br>
 
+### 📫 Contact Me 
 
-- 👋 Hi, I’m @MaxiMarolda
-- 👀 I’m interested in BackEnd mainly
-- 🌱 I’ve graduated form Henry as a Full Stack Web Developer
-- 💞️ I’m looking to collaborate on technology proyects, that might exploit my previous background in applied Engineering and proyect leadership
-- 📫 How to reach me mmarolda12@gmail.com 
-      www.linkedin.com/in/maximarolda
+<p>
+    <a href="https://mmarolda12@gmail.com">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
+      mmarolda12@gmail.com
+    </a>    
+    <br>
+    <a href="https://www.linkedin.com/in/maximarolda/">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/182481396-19c89e94-f3ba-4e33-9df4-f5b7a094cf8f.svg"/>
+      Maximiliano Marolda
+    </a>
+<p/>
+ 
 
