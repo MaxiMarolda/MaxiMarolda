@@ -19,7 +19,7 @@ Github
 ## Skills 
 ![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)
 
-
+![MaroldaMaxi's github stats](https://github-readme-stats.vercel.app/api?username=MaxiMarolda&show_icons=true&theme=dracula)
 
 ## 📌 My Proyects
 ### B2B commodities proyect:
